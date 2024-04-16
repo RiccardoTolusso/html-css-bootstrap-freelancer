@@ -1,0 +1,11 @@
+.rt-bg-primary{
+    background-color: var(--rt-primary-color);
+}
+
+.rt-bg-primary-light{
+    background-color: var(--rt-primary-color-light);
+}
+
+.rt-bg-secondary{
+    background-color: var(--rt-secondary-color);
+}
