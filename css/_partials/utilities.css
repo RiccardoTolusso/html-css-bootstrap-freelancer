@@ -9,3 +9,11 @@
 .rt-bg-secondary{
     background-color: var(--rt-secondary-color);
 }
+
+.rt-text-dark{
+    background-color: var(--rt-dark);
+}
+
+.rt-text-primary{
+    background-color: var(--rt-primary-color);
+}
