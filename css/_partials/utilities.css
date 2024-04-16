@@ -11,9 +11,9 @@
 }
 
 .rt-text-dark{
-    background-color: var(--rt-dark);
+    color: var(--rt-dark);
 }
 
 .rt-text-primary{
-    background-color: var(--rt-primary-color);
+    color: var(--rt-primary-color);
 }
